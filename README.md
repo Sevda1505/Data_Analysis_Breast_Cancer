@@ -1,2 +1,5 @@
 # Data_Analysis_Breast_Cancer
 information about breast cancer
+
+id,diagnosis,radius_mean,texture_mean,perimeter_mean,area_mean,smoothness_mean,compactness_mean,concavity_mean,concave points_mean,symmetry_mean,fractal_dimension_mean,radius_se,texture_se,perimeter_se,area_se,smoothness_se,compactness_se,concavity_se,concave points_se,symmetry_se,fractal_dimension_se,radius_worst,texture_worst,perimeter_worst,area_worst,smoothness_worst,compactness_worst,concavity_worst,concave points_worst,symmetry_worst,fractal_dimension_worst
+![resim](https://github.com/user-attachments/assets/98e5dc7d-da18-4b02-8600-d8b379fb525a)
